@@ -36,7 +36,7 @@ Built from personal experience: at age 3, I couldn't speak like other kids and s
 
 1. Open `StutterGuide.swiftpm` in Xcode
 2. Grant microphone and speech recognition permissions when prompted
-3. Run on iPad or iPad simulator for best experience
+3. Run on iPad device for best experience
 
 ## Architecture Highlights
 
